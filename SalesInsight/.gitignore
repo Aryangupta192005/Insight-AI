@@ -1,0 +1,17 @@
+# Python bytecode and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Local secrets/config
+.env
+.streamlit/secrets.toml
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Logs and exports
+*.log
+exports/
